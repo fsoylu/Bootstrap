@@ -1,0 +1,7 @@
+.container .row .card .card-footer  div {
+    border-right: 1px solid rgb(210, 220, 215);
+}
+.container .row .card .card-footer  div:last-child {
+    border-right:none;   
+}
+Collapse
